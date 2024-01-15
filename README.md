@@ -10,7 +10,7 @@
  
  🔭 I’m currently looking for **a new position**
  
- 🌱 I’m currently learning <img srcset="https://skillicons.dev/icons?i=aws,terraform 2x" />
+ 🌱 I’m currently learning <img src="https://skillicons.dev/icons?i=aws,terraform" />
 
  </div>
  </br>
